@@ -1,4 +1,4 @@
- دیتا ها را از سایت https://jsonplaceholder.typicode.com گرفتم و نمایش دادم 
+فچ دیتا ها را از سایت https://jsonplaceholder.typicode.com 
  
  سایت منبع :  https://jsonplaceholder.typicode.com
 

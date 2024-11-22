@@ -1,4 +1,4 @@
-ل https://jsonplaceholder.typicode.com دیتا ها را از سایت
+ دیتا ها را از سایت https://jsonplaceholder.typicode.com
  
 
   گرفتم و نمایش دادم 

@@ -1,5 +1,5 @@
-
-  https://jsonplaceholder.typicode.com دیتا ها را از سایت
+ل https://jsonplaceholder.typicode.com دیتا ها را از سایت
+ 
 
   گرفتم و نمایش دادم 
 

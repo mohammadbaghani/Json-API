@@ -1,4 +1,4 @@
-فچ دیتا ها را از سایت https://jsonplaceholder.typicode.com 
+فچ دیتاها را از سایت https://jsonplaceholder.typicode.com 
   
 ### کدها در برنچ مستر می باشند ###
 

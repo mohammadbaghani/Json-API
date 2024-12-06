@@ -2,7 +2,6 @@
 سایت منبع : https://jsonplaceholder.typicode.com 
 <br><br/>  
 
-
 <br><br/>
 Get-Json-Place-Holder-API with React JS
 <br><br/>

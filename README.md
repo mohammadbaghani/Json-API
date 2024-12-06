@@ -1,5 +1,4 @@
-فچ دیتاها با ری اکت
-<br><br/> 
+فچ دیتاها با ری اکت<br><br/> 
 سایت منبع : https://jsonplaceholder.typicode.com 
 <br><br/>  
 

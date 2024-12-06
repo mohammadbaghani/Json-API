@@ -5,6 +5,6 @@
 
 
 <br><br/>
-Get-Json-Place-Holder-API
+Get-Json-Place-Holder-API with React JS
 <br><br/>
 Api site  https://jsonplaceholder.typicode.com

@@ -7,5 +7,4 @@
 <br><br/>
 Get-Json-Place-Holder-API
 <br><br/>
-<br><br/>
 Api site  https://jsonplaceholder.typicode.com
